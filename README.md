@@ -25,13 +25,10 @@ Run `npm install` after cloning the repo.
 - Run `npx stylelint "**/*.{css,scss}"` for CSS check
 - Run `npx stylelint "**/*.{css,scss}" --fix` to fix CSS errors if found.
 
-## Video Presention
-
-[Video Link](https://drive.google.com/file/d/1PO_NRuqOek-7XcX1sajRvkPN5LanyaLA/view?usp=sharing)
 
 ## Live Demo
 
-[Live Demo Link](https://natig25.github.io/JS-capstone/)
+[Live Demo Link](https://natig25.github.io/bootstrap/)
 
 ## Authors
 
